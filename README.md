@@ -16,6 +16,7 @@
 ## Circuit Design
 <img width="1723" height="892" alt="Image" src="https://github.com/user-attachments/assets/d8465280-8a14-4b4c-8ebc-3e0f734e5e2d" />
 <img width="1723" height="892" alt="Image" src="https://github.com/user-attachments/assets/ee88131e-5c36-41c7-bae1-3919f0a3a017" />
+
 ### Topology
 
 State-variable quadrature oscillator implementing:
@@ -26,6 +27,7 @@ d(cosine)/dt = -ω × sine
 ```
 
 ### Schematic
+
 <img width="1321" height="828" alt="Image" src="https://github.com/user-attachments/assets/0405d44c-e64c-4d52-baa1-13e5a2f2d69c" />
 
 ### Components
@@ -61,8 +63,11 @@ Measured: 83-85° (within tolerance)
 ```
 
 ## Performance
+
 <img width="1914" height="847" alt="Image" src="https://github.com/user-attachments/assets/b2db2d07-8092-4be8-8825-5329732d306a" />
+
 <img width="1902" height="848" alt="Image" src="https://github.com/user-attachments/assets/4bd9fd76-8596-4af1-b94c-a418444fb20e" />
+
 | Parameter | Target | Simulation | Hardware |
 |-----------|--------|------------|----------|
 | Frequency | 1000 Hz | 1009 Hz | 1030 Hz |
