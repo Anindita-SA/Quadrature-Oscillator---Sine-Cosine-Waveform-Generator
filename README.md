@@ -17,7 +17,9 @@
 <img width="1723" height="892" alt="Image" src="https://github.com/user-attachments/assets/d8465280-8a14-4b4c-8ebc-3e0f734e5e2d" />
 <img width="1723" height="892" alt="Image" src="https://github.com/user-attachments/assets/ee88131e-5c36-41c7-bae1-3919f0a3a017" />
 ### Topology
+
 State-variable quadrature oscillator implementing:
+
 ```
 d(sine)/dt = ω × cosine
 d(cosine)/dt = -ω × sine
