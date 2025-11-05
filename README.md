@@ -28,7 +28,7 @@ d(cosine)/dt = -ω × sine
 
 ### Schematic
 
-<img width="1321" height="828" alt="Image" src="https://github.com/user-attachments/assets/0405d44c-e64c-4d52-baa1-13e5a2f2d69c" />
+[Final PCB for 1khz Sine wave generator 2.pdf](https://github.com/user-attachments/files/23353181/Final.PCB.for.1khz.Sine.wave.generator.2.pdf)
 
 ### Components
 
